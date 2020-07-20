@@ -1,1 +1,1 @@
-Thanks GitHub and @lifesinger!
+my personal site
