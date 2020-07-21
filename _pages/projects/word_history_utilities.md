@@ -12,7 +12,7 @@ permalink: /word_history_utilities/
 
 Google字典单词历史小工具这个扩展是为使用谷歌字典[官方扩展](https://chrome.google.com/webstore/detail/mgijmajocgfcbeboacabfgobmjgjcoja)的小伙伴准备的。谷歌字典扩展有个记录查词历史的功能，默认是未启用的。启用该功能后，使用扩展查过的单词会被记录下来。记录下来的单词历史可以被保存为文件，同时提供了可以让其他扩展提取查词历史的开关。推测谷歌字典扩展的产品经理和我一样认为查词历史有进一步可挖掘的价值，才设计了这个功能，记录查词历史并暴露接口供进一步利用查词历史。
 
-![Untitled%20f02f208d64f948238c9f79457bf32e73/Untitled.png](Untitled%20f02f208d64f948238c9f79457bf32e73/Untitled.png)
+![images/google_dictionary_extension_options.png](Untitled%20f02f208d64f948238c9f79457bf32e73/Untitled.png)
 
 Word history in Google Dictionary Extension
 
