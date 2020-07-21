@@ -22,19 +22,19 @@ Google字典单词历史小工具这个扩展就是基于的查词历史，进�
 
 谷歌字典扩展的查词历史未提供浏览方法，并且由于使用谷歌字典划词查询时非精确操作，数据是含有网址，非单词，非生词等杂质的生数据。因此Google字典单词历史小工具首个版本提供了：同步查词历史，浏览查词历史，整理查词历史这三个基础功能。
 
-![Untitled%20f02f208d64f948238c9f79457bf32e73/Screen_Shot_2020-07-17_at_07.24.54.png](/images/Screen_Shot_2020-07-17_at_07.24.54.png)
+![Untitled%20f02f208d64f948238c9f79457bf32e73/Screen_Shot_2020-07-17_at_07.24.54.png]({{ site.baseurl }}/images/Screen_Shot_2020-07-17_at_07.24.54.png)
 
 Navigation drawer
 
-![Untitled%20f02f208d64f948238c9f79457bf32e73/Screen_Shot_2020-07-17_at_07.24.29.png](/images/Screen_Shot_2020-07-17_at_07.24.29.png)
+![Untitled%20f02f208d64f948238c9f79457bf32e73/Screen_Shot_2020-07-17_at_07.24.29.png]({{ site.baseurl }}/images/Screen_Shot_2020-07-17_at_07.24.29.png)
 
 Word history
 
-![Untitled%20f02f208d64f948238c9f79457bf32e73/Screen_Shot_2020-07-17_at_07.29.10.png](/images/Screen_Shot_2020-07-17_at_07.29.10.png)
+![Untitled%20f02f208d64f948238c9f79457bf32e73/Screen_Shot_2020-07-17_at_07.29.10.png]({{ site.baseurl }}/images/Screen_Shot_2020-07-17_at_07.29.10.png)
 
 Organize
 
-![Untitled%20f02f208d64f948238c9f79457bf32e73/Screen_Shot_2020-07-17_at_07.25.24.png](/images/Screen_Shot_2020-07-17_at_07.25.24.png)
+![Untitled%20f02f208d64f948238c9f79457bf32e73/Screen_Shot_2020-07-17_at_07.25.24.png]({{ site.baseurl }}/images/Screen_Shot_2020-07-17_at_07.25.24.png)
 
 Options
 
