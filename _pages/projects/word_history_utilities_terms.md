@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Word History Utilities
+title: Google Word History Utilities Terms
 permalink: /word_history_utilities/terms/
 ---
 
