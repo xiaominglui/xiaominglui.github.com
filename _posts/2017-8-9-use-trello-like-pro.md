@@ -6,11 +6,11 @@ categories: [效率，工具]
 
 ## Trello 很简单
 Trello 很简单，就是一堆白板+好多便条纸。
-![一堆白板](http://www.jiaoxuegongju.com/UploadFiles/20101224165552480.jpg)
+![一堆白板]({{ site.baseurl }}/images/white-boards.jpg)
 
-![好多便条纸](http://im01.taiwantrade.org/resources/member/84/productcatalog/f46c1e2d-286e-43b8-b5ed-88d496551532_pastel.jpg)
+![好多便条纸]({{ site.baseurl }}/images/post-it.jpg)
 
-![Trello](http://justincone.com/wp-content/uploads/2014/04/header01-e1398109378929.jpg)
+![Trello]({{ site.baseurl }}/images/raw-trello.jpg)
 
 ## Trello 的主要用途
 给你白板和表条纸，你能做什么？
