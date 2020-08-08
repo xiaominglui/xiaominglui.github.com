@@ -6,7 +6,7 @@ permalink: /word_history_utilities/
 
 ## 缘起
 
-由于想体验下目前很🔥️的Flutter，看看这个平台的能力，就决定用Flutter把当时的一个小想法实现出来。因此就开了业余小项目：[word_history_utilities](https://github.com/xiaominglui/word_history_utilities)，然后，Chrome浏览器市场又多了一个名为[Google Dictionary Word History Utilities](https://chrome.google.com/webstore/detail/google-dictionary-word-hi/knndhbmjcbkldgklmbkhplkbddchdofh)的扩展程序。
+由于想体验下目前很🔥️的Flutter，看看这个平台的能力，就决定用Flutter把当时的一个小想法实现出来。因此就在交友网站上开了个业余小项目：[word_history_utilities](https://github.com/xiaominglui/word_history_utilities)，然后，Chrome浏览器市场又多了一个名为[Google Dictionary Word History Utilities](https://chrome.google.com/webstore/detail/google-dictionary-word-hi/knndhbmjcbkldgklmbkhplkbddchdofh)的扩展程序。
 
 ## 目的
 
@@ -56,4 +56,4 @@ Options
 
 ## 结语
 
-很早就发现谷歌查词历史这个功能及接口，想进一步发挥查词历史的价值，但在很长一段时间都未找到有相关的应用。说明利用查词历史这个需求是个很小众的需求。不管怎样，趁着尝试Flutter平台这个机会，做出了这个扩展。至少满足一下自己的需求。若有类似需求的其他朋友能注意到这个扩展，相互交流，帮助，就更好了。
+很早就发现谷歌查词历史这个功能及接口，想进一步发挥查词历史的价值，但在很长一段时间都未找到有相关的应用。说明利用查词历史这个需求是个很小众的需求。不管怎样，趁着尝试Flutter平台这个机会，做出了这个扩展。至少满足一下自己的需求。若有类似需求的其他朋友能注意到这个扩展，相互交流帮助，就更好了。
