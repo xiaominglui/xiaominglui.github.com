@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hello World
+Hello World ・ Be Better
