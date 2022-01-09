@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello World ・ Be Better
+Hello World ・ Do Better ・ Be Better
 
 「明天」的含义：
 
