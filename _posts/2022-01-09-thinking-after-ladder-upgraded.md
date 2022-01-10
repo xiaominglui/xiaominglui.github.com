@@ -12,8 +12,8 @@ categories: [总结, 思考]
 
 虽说磨刀不误砍柴工，但整体来说，修理效率还是偏低。总结下来原因如下：
 
-- 对[YAML](https://www.notion.so/The-Official-YAML-Web-Site-0123f062737b4ffa98f2adf8bebc687b)不熟悉，好几次因为一些简单语法错误花费了不少定位时间
-- 对[DNS](https://www.notion.so/Domain-Name-System-Wikipedia-b38fd70e2a8d4b819d61b75cf8eddda2)一知半解，更不要说相关基本问题的定位技能
+- 对[YAML](https://yaml.org/)不熟悉，好几次因为一些简单语法错误花费了不少定位时间
+- 对[DNS](https://en.wikipedia.org/wiki/Domain_Name_System)一知半解，更不要说相关基本问题的定位技能
 - 开始未找到当前最佳部署方案，在缺少相关专业经验的情况下，相当于返工了一次。
 
 经过这次梯子优化，日常使用时体验更顺滑，更舒服，后面能否长期稳定运行，就等待时间的证明吧。毕竟当前主要专注点不在这个方向。
