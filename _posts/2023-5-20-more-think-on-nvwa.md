@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 黄土与藤蔓：人生的起源与寻意
+title: 黄土与藤蔓——人生的起源与寻意
 categories: [人生, ChatGPT]
 ---
 
